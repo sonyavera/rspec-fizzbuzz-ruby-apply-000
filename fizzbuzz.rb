@@ -9,6 +9,6 @@ def fizzbuzz(int)
   elsif (int % 5 == 0) &&  (int % 3 == 0)
   puts "FizzBuzz"
 else
-  puts int
+  int
 end
 end
