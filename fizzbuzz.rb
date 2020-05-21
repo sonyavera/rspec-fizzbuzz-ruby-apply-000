@@ -12,4 +12,3 @@ else
   puts int
 end
 end
-
